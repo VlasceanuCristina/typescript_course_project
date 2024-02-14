@@ -1,10 +1,10 @@
-{
+{ "license": "UNLICENSED" ,
   "name": "project",
-  "dependencies": {},
   "devDependencies": {
-    "webpack": "^2.0",
     "ts-loader": "*",
-    "typescript": "*"
+    "typescript": "^5.3.3",
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4"
   },
   "scripts": {
     "build": "webpack",

@@ -1,4 +1,4 @@
-# cE2L7kt3
+npm run builrun buil# cE2L7kt3
 
 Quick start:
 
